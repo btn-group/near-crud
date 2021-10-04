@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/stevenchang/Desktop/near/key_value_storage/target/wasm32-unknown-unknown/release/build/typenum-f29817971792bd9f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/stevenchang/Desktop/near/key_value_storage/target/wasm32-unknown-unknown/release/build/typenum-f29817971792bd9f/out/op.rs
